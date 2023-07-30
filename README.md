@@ -1,31 +1,6 @@
-<img width="100%" alt="Superpower ChatGPT" src="https://user-images.githubusercontent.com/574142/232174790-a91d7d76-ec48-40ef-97ce-76edaa52053a.png">
-
-[link-chrome]: https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc "Chrome Web Store"
-[link-firefox]: https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt "Firefox Addons"
-
-# Superpower ChatGPT ⚡️
+# Superpower ChatGPT Free⚡️
 
 A browser extension to add the missing features like **Folders**, **Search**, and **Community Prompts** to ChatGPT
-
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/amhmeenmapldpjdedekalnfifgnpfnkc.svg)]([link-chrome])
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/users/amhmeenmapldpjdedekalnfifgnpfnkc.svg)]([link-chrome])
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/rating/amhmeenmapldpjdedekalnfifgnpfnkc.svg)]([link-chrome])
-
-[![Mozilla Add-on](https://img.shields.io/amo/v/superpower-chatgpt.svg)]([link-firefox])
-[![Mozilla Add-on](https://img.shields.io/amo/users/superpower-chatgpt.svg)]([link-firefox])
-[![Mozilla Add-on](https://img.shields.io/amo/rating/superpower-chatgpt.svg)]([link-firefox])
-
-[![Discord](https://img.shields.io/discord/1060110102188797992?color=green&label=Discord&logo=discord)](https://discord.gg/superpower-chatgpt-1083455984489476220)
-[![Twitter Follow](https://img.shields.io/twitter/follow/eeeziii?label=follow%20me&style=social)](https://twitter.com/intent/user?screen_name=eeeziii)
-
-<div align="center">
-
-[<img src="https://user-images.githubusercontent.com/574142/232173820-eea32262-2b0f-4ec6-8a38-b1c872981d75.png" height="67" alt="Chrome" valign="middle">][link-chrome]
-[<img src="https://user-images.githubusercontent.com/574142/232173822-af2e660f-11df-4d6c-a71b-0e92e9be543f.png" height="67" alt="Firefox" valign="middle">][link-firefox]
-
-</div>
-
-https://user-images.githubusercontent.com/574142/232172841-50f1b114-ef47-4533-a6e6-fd630e7b30a2.mov
 
 # Features
 
